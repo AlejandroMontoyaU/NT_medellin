@@ -15,8 +15,9 @@
 
 print("Valor credito pregrado = 50000")
 print("Valor credito posgrado = 300000")
-print("Si eres de la modalidad pregrado escribe el numero 1 o si eres de posgrado escribe el numero 2")
+
 promedio = float(input("Ingrese su promedio: "))
+print("Si eres de la modalidad pregrado escribe el numero 1 o si eres de posgrado escribe el numero 2")
 modalidad = float(input("Ingresa la modalidad: "))
 # creditos = float(input("Ingrese el numero de creditos"))
 if promedio >= 4.5 and modalidad == 1: 
@@ -42,7 +43,7 @@ elif promedio >= 4.5 and modalidad == 2:
 elif promedio < 4.5 and modalidad == 2:
     posgrado = 10 * 300000
     print(" Este es el valor de tu semestre : "+ str(posgrado)+" Cursaras 10 creditos.")
-if promedio = 
+
 
 
 
