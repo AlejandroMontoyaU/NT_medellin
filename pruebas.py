@@ -44,3 +44,7 @@ if tip == "SI":
     total = total * 1.10
 
 print("El total de la cuenta es: "+ str(total))
+proceso = input("Ingresa 1 si el proceso que quieres hacer es para finalizacion de semestre y 2 si es para admisiones")
+if proceso == 1
+
+elif proceso == 2
